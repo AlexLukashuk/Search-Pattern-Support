@@ -1,4 +1,5 @@
 # Search Pattern: Пошук в PDF
+
 ## Пошук шаблонів в pdf файлах.
 
 Search Pattern дозволяє здійснювати пошук за певним шаблоном/патерном у вибраному файлі PDF і сортувати результат.
@@ -7,6 +8,7 @@ Search Pattern дозволяє здійснювати пошук за певн�
 #### ПРИМІТКИ:
 Обраний файл повинен мати розширення .pdf, а його контент повинен бути українською, а на читання файлу не повинно бути обмежень (паролів)
  
+## Search for templates in pdf files.
 
 Search Pattern allows you to search by specific pattern in the selected pdf file and sort the result.
 You can edit the search result and copy it. For convenience, the result with the number of repetitions in the file.
