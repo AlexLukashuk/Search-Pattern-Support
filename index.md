@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+## Search Pattern: Пошук в PDF
 
-You can use the [editor on GitHub](https://github.com/AlexLukashuk/Search-Pattern-Support/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Search Pattern дозволяє здійснювати пошук за певним шаблоном/патерном у вибраному файлі PDF і сортувати результат.
+Ти можеш редагувати результат пошуку та копіювати його. Для зручності в результаті виводиться кількість повторів в файлі.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ПРИМІТКИ:
+Обраний файл повинен мати розширення .pdf, а його контент повинен бути українською, а на читання файлу не повинно бути обмежень (паролів)
 
-### Markdown
+
+Search Pattern allows you to search by specific pattern in the selected pdf file and sort the result.
+You can edit the search result and copy it. For convenience, the result with the number of repetitions in the file.
+
+NOTES:
+The selected file must have a .pdf type, its content must be in Ukrainian, and there must be no restrictions (passwords) on reading the file.
+
+### Пошук шаблонів в pdf файлах.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
