@@ -20,7 +20,8 @@ The selected file must have a .pdf type, its content must be in Ukrainian, and t
 ![IMG_1212](https://user-images.githubusercontent.com/46757961/159740683-60aff54d-fe2d-4258-a144-5d90c8fad004.PNG)
 ![IMG_1213](https://user-images.githubusercontent.com/46757961/159740705-e1418774-bb22-4c92-9d13-7849fa1f8750.PNG)
 ![IMG_1214](https://user-images.githubusercontent.com/46757961/159740774-ceefac29-81b3-4f40-9414-58a55e6df8e5.PNG)
-![IMG_1215](https://user-images.githubusercontent.com/46757961/159740790-39bf91c8-4696-4744-b821-76d39209c717.PNG)
+![IMG_1215](https://user-images.githubusercontent.com/46757961/159873567-538f5138-2632-47f3-9705-e826c00c503c.png)
+![IMG_1216](https://user-images.githubusercontent.com/46757961/159873556-b2dd836f-dcde-4545-82a5-620aec5c3cc4.png)
 
 ## Contact
 
