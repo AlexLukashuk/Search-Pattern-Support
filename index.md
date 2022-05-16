@@ -2,10 +2,10 @@
 
 ## Search by your Regex.
 
-#### Search Pattern allows you to write your regular expression and search by this in your text. Also, you have the opportunity to get help and some tips about creating this in Swift.
-#### You can search by specific pattern in the content of the selected pdf file or in view of this file.
-#### You can edit the search result and copy it. For convenience, the result with the number of repetitions in the file.
-#### Search Pattern allows finding and detecting swear words in your text.
+##### Search Pattern allows you to write your regular expression and search by this in your text. Also, you have the opportunity to get help and some tips about creating this in Swift.
+##### You can search by specific pattern in the content of the selected pdf file or in view of this file.
+##### You can edit the search result and copy it. For convenience, the result with the number of repetitions in the file.
+##### Search Pattern allows finding and detecting swear words in your text.
 
 ![1242x2688bb 1](https://user-images.githubusercontent.com/46757961/168565130-b6d97e2e-b30b-4902-ba9b-844cd3809f00.png)
 ![1242x2688bb 2](https://user-images.githubusercontent.com/46757961/168565144-dfe243cd-0e51-4a6e-840e-37ce59837cd7.png)
@@ -20,4 +20,4 @@
 
 ## Contact
 
-#### Having trouble or need suport? Contact us with [email](mailto: o.luaskhuk3.14@gmail.com) and we’ll help you sort it out.
+##### Having trouble or need suport? Contact us with [email](mailto: o.luaskhuk3.14@gmail.com) and we’ll help you sort it out.
